@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Mulam</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning Projects.<br>👯 I’m looking to collaborate on MERN stack and Solidity.<br>🌱 I’m currently learning Blockchain development.<br>💬 Ask me about Java, Solidity, JS.<br>
+🔭 I’m currently working on Machine Learning Projects.<br>🧑🏻‍💻 I’m looking to collaborate on MERN stack and Solidity.<br>⛓️ I’m currently learning Blockchain development.<br>💬 Ask me about Java, Solidity, JS.<br>
 
 
 ## 🌐 Socials:
